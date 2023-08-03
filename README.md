@@ -1,7 +1,5 @@
 # Sentiment Analysis using Support Vector Machines (SVM)
 
-![GitHub](https://img.shields.io/github/license/AnamolZ/sentiment-analysis-svm)
-
 ## Overview
 
 Sentiment analysis using Support Vector Machines (SVM) on textual data. Sentiment analysis is a natural language processing (`NLP`) technique used to determine the sentiment (positive, negative, or neutral) expressed in a piece of text.
